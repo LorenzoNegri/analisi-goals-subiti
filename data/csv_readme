@@ -1,0 +1,4 @@
+Il file csv contiene le seguenti variabili;
+Minuto: il minuto di gioco interessato
+Tot_goal: il totale dei goal subiti in quel dato minuto
+Goal_xx: i goal subito per il dato minuto dove "_xx" indica il numero di partita della stagione.
